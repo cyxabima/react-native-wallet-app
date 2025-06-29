@@ -1,0 +1,1 @@
+export const API_URL = "https://wallet-api-uk-f4db4181f046.herokuapp.com/api";
